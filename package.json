@@ -1,0 +1,17 @@
+{
+  "name": "emailsave",
+  "version": "1.0.0",
+  "description": "Parse email from S3 into BailMail Message",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1.8",
+    "mailparser": "*",
+    "request": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
